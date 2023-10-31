@@ -25,4 +25,4 @@ Explicação mais detalhada no idioma original (Inglês) em: https://docs.donkey
 
 O comando `python manage.py drive` abre um servidor com uma interface web que permite a visualização da câmera, a possibilidade de controlar o carrinho com um joystick na web ou um gamepad (controle de video game) e a possibilidade de mudar entre os modos usuário, *full auto* (piloto autônoma) e *auto steer* (direção autônoma).
 
-Recomendamos conectar um controle por bluetooth no dispositivo que abrirá o servidor `[ip]:8887/drive` (pode ser um celular na mesma rede) e dirigir até gerar pelo menos mais de 10 catálogos (explicação catálogos) prezando sempre por dirigir bem para evitar que seja necessário limpar os dados posteriormente.
+Recomendamos conectar um controle por bluetooth no dispositivo que abrirá o servidor `[ip]:8887/drive` (pode ser um celular na mesma rede) e dirigir até gerar pelo menos mais de 10 catálogos ([Catálogos](/Catalogos.pdf)) prezando sempre por dirigir bem para evitar que seja necessário limpar os dados posteriormente.
