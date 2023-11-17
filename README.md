@@ -20,7 +20,7 @@ Explicação mais detalhada no idioma original (Inglês) em: https://docs.donkey
 ### Passo a passo da configuração de software:
 Explicação mais detalhada no idioma original (Inglês) em: https://docs.donkeycar.com/guide/install_software/
 
-Apesar da Donkeycar recomendar no tutorial que se instale o software em um PC host, para este projeto não é necessário visto que usamos um notebook no Google Colab para treinar o modelo e não fizemos uso da UI para deleção de dados mal coletados.
+Apesar da Donkeycar recomendar no tutorial que se instale o software em um PC host, para este projeto não é necessário visto que usamos um [notebook no Google Colab](/Treinamento_Donkey_TCC.ipynb) para treinar o modelo e não fizemos uso da UI para deleção de dados mal coletados.
 
 - Prepare o cartão de memória SD com a imagem do sistema e depois limpe e configure as dependências e bibliotecas de código no sistema operacional;
 - Crie a aplicação donkey padrão (sem template);
