@@ -11,6 +11,20 @@ Guia didático para montagem de um carrinho de controle remoto autônomo usando 
 ## Materiais e montagem
 <img src="/Imagens/Materiais.png">
 
+## Tabela de Custos
+| Material       | Preço           | Link  |
+|:-------------:|:-------------:|:-----:|
+| Buggy Wltoys 124017 V2 4x4      | ~1000,00 | [Banggood](https://br.banggood.com/Wltoys-124017-Brushless-V2-New-Upgraded-4300KV-Motor-0_7M-19T-RTR-1-or-12-2_4G-4WD-70km-or-h-RC-Car-Vehicles-Metal-Chassis-Models-Toys-p-1871731.html?gmcCountry=BR&currency=BRL&cur_warehouse=CN&createTmp=1&ad_id=) |
+| Bateria 5200mAh      | 300,00      |   [Fabmodelismo](https://www.fabmodelismo.com.br/produto/pecas-e-acessorios/baterias-em-geral/9467-bateria-lipo-7-4v-2s-5200mah-30c60c-xt60-automodelo) |
+| Conversor 7.4v para 5v | 12,00      |    [Iot-robotica](https://www.iot-robotica.com.br/produto/mini-stepdown-mp1584en-5volts.html) |
+| câmera para nvidia jetson placa nano | 20,00      |    [Aliexpress](https://pt.aliexpress.com/item/1005004662842684.html?src=google&src=google&albch=shopping&acnt=768-202-3196&slnk=&plac=&mtctp=&albbt=Google_7_shopping&isSmbAutoCall=false&needSmbHouyi=false&albcp=17280411561&albag=&trgt=&crea=pt1005004662842684&netw=x&device=c&albpg=&albpd=pt1005004662842684&gad_source=1&aff_fcid=c6d316c1a9c54d4bba89c518b498c606-1701298830689-05444-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=c6d316c1a9c54d4bba89c518b498c606-1701298830689-05444-UneMJZVf&terminal_id=e917859336ee48868c6ef3c60e6fef75&afSmartRedirect=y) |
+| Placa Wifi+BT | 30,00      |    [Aliexpress](https://pt.aliexpress.com/item/1005005588691109.html?src=google&src=google&albch=shopping&acnt=768-202-3196&slnk=&plac=&mtctp=&albbt=Google_7_shopping&isSmbAutoCall=false&needSmbHouyi=false&albcp=17364768653&albag=&trgt=&crea=pt1005005588691109&netw=x&device=c&albpg=&albpd=pt1005005588691109&gad_source=1&aff_fcid=48fce4cd8d414ead9314d587472ac870-1701299109821-05102-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=48fce4cd8d414ead9314d587472ac870-1701299109821-05102-UneMJZVf&terminal_id=e917859336ee48868c6ef3c60e6fef75&afSmartRedirect=y#nav-specification)|
+| Cabo XT60 para adaptar | 10,00      |    [Aliexpress](https://pt.aliexpress.com/item/1005003866427129.html?src=google&src=google&albch=shopping&acnt=768-202-3196&slnk=&plac=&mtctp=&albbt=Google_7_shopping&isSmbAutoCall=false&needSmbHouyi=false&albcp=17364768653&albag=&trgt=&crea=pt1005003866427129&netw=x&device=c&albpg=&albpd=pt1005003866427129&gad_source=1&aff_fcid=6b0a77cc308f418e9e455938108b57d0-1701299314930-05995-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=6b0a77cc308f418e9e455938108b57d0-1701299314930-05995-UneMJZVf&terminal_id=e917859336ee48868c6ef3c60e6fef75&afSmartRedirect=y) |
+| PCA9685 | 40,00      |    [Baudaeletronica](https://www.baudaeletronica.com.br/produto/modulo-pwm-pca9685-i2c-16-canais-para-servo-motor.html?gad_source=4) |
+| NVidia Jetson Nano 4Gb | 1100,00      |    [Amazon](https://www.amazon.com.br/Waveshare-Jetson-Developer-Computer-Development/dp/B08QCPDKW1/ref=cm_cr_arp_d_product_top?ie=UTF8) |
+| Total | 2512,00           |
+
+
 ### Passo a passo da montagem de hardware:
 Explicação mais detalhada no idioma original (Inglês) em: https://docs.donkeycar.com/guide/build_hardware/
 - Abra o carrinho e desconecte os jumpers que ligam o receiver ao ESC, atente-se às cores para facilitar na identificação de controle de velocidade e direção;
